@@ -1,5 +1,5 @@
 # cPanel & WHM Delete Accounts
-Automated way to suspend, clear and delete account in cPanel & WHM
+Automated way to suspend, delete and clear accounts in cPanel & WHM
 
 Example of use: `./cpanel-remove.sh "domains-list"
 
